@@ -9,6 +9,7 @@ baseurl: "/LJT-Homepage"
 repository: "sharefoxanchorage/LJT-Homepage"
 
 author:
+  avatar: "profile.png"
   name: "Junteng Liu"
   bio: "First-year PhD candidate in the HKUST NLP Group. Research focuses on natural language processing and machine learning."
   employer: "Hong Kong University of Science and Technology"
