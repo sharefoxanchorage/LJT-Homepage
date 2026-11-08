@@ -34,7 +34,7 @@ analytics:
   provider: "false"
 
 include: [".htaccess", "_pages", "files"]
-exclude: ["node_modules", "vendor", "README", "LICENSE", "Gemfile", "Dockerfile", "tmp", "log", "package.json*", ".asset-cache", ".bundle", ".jekyll-assets-cache", ".sass-cache"]
+exclude: ["node_modules", "vendor", "README.md", "README", "LICENSE", "Gemfile", "Gemfile.lock", "Dockerfile", "docker-compose.yaml", "package.json", "tmp", "log", "package.json*", ".asset-cache", ".bundle", ".jekyll-assets-cache", ".sass-cache", ".github", "markdown_generator", "scripts", "talkmap", "talkmap.ipynb", "talkmap.py", "talkmap_out.ipynb"]
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
